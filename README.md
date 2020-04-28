@@ -4,9 +4,9 @@ This is a google chrome extension that add positive messages from the meetings o
 This extension was made by me and it is not officially supported by the UCKG. It's just my hobby work.
 
 # Install 
----bash
+___bash
 git clone https://github.com/mauricioph/Images.git
----
+___
 Open goggle chrome and type in the address bar
 ---bash
 chrome://extensions/
