@@ -4,13 +4,13 @@ This is a google chrome extension that add positive messages from the meetings o
 This extension was made by me and it is not officially supported by the UCKG. It's just my hobby work.
 
 # Install 
-___bash
+``` bash
 git clone https://github.com/mauricioph/Images.git
-___
+```
 Open goggle chrome and type in the address bar
----bash
+```bash
 chrome://extensions/
----
+```
 On this page click on developer mode / load packed extension. Upload the crx file in the repository.
 Every time you open a new tab a message will show.
 
